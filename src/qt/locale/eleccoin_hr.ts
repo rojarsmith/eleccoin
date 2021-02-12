@@ -757,7 +757,7 @@
     </message>
     <message>
         <source>Can vary +/- %1 electron(s) per input.</source>
-        <translation>Može varirati +/- %1 satoši(ja) po inputu.</translation>
+        <translation>Može varirati +/- %1 electrons po inputu.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -2193,7 +2193,7 @@
 Note:  Since the fee is calculated on a per-byte basis, a fee of "100 electrons per kB" for a transaction size of 500 bytes (half of 1 kB) would ultimately yield a fee of only 50 electrons.</source>
         <translation>Zadajte prilagođeu naknadu po kB (1000 bajtova) virtualne veličine transakcije.
 
-Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po kB" za transakciju veličine 500 bajtova (polovica od 1 kB) rezultirala bi ultimativno naknadom od samo 50 satošija.</translation>
+Napomena: Budući da se naknada računa po bajtu, naknada od "100 electrons po kB" za transakciju veličine 500 bajtova (polovica od 1 kB) rezultirala bi ultimativno naknadom od samo 50 electrons.</translation>
     </message>
     <message>
         <source>per kilobyte</source>

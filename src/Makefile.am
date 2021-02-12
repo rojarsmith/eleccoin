@@ -150,7 +150,6 @@ ELECCOIN_CORE_H = \
   interfaces/wallet.h \
   key.h \
   key_io.h \
-  limitedmap.h \
   logging.h \
   logging/timer.h \
   memusage.h \
@@ -575,7 +574,6 @@ libeleccoin_util_a_SOURCES = \
   support/lockedpool.cpp \
   chainparamsbase.cpp \
   clientversion.cpp \
-  compat/glibc_sanity_fdelt.cpp \
   compat/glibc_sanity.cpp \
   compat/glibcxx_sanity.cpp \
   compat/strnlen.cpp \
@@ -603,7 +601,6 @@ libeleccoin_util_a_SOURCES = \
   util/strencodings.cpp \
   util/string.cpp \
   util/time.cpp \
-  util/url.cpp \
   $(ELECCOIN_CORE_H)
 
 if USE_LIBEVENT
